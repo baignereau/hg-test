@@ -12,3 +12,4 @@ foo
 bar
 something else
 before
+after
